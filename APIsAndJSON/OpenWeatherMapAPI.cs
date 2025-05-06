@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace APIsAndJSON
-{
-    internal class OpenWeatherMapAPI
-    {
-    }
-}
+// namespace APIsAndJSON
+// {
+//     internal class OpenWeatherMapAPI
+//     {
+//     }
+// }
